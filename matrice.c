@@ -1,3 +1,11 @@
+// lien du problème: https://www.codewars.com/kata/matrix-transpose
+
+/* La fonction permut prend deux matrices : L (og matrix) et R (matrice transposée).
+ * échange ddes lignes et des colonnes de la matrice L pour former la matrice R en utilisant boucles imbriqués
+ * Pour chaque élément L[j][i] de la matrice originale, il est placé dans R[i][j] dans la matrice transposée.
+*/
+
+
 #include <stdio.h>
 
 #define M 2
